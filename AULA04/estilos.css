@@ -1,0 +1,21 @@
+/*
+PAGINA DE ESTILOS
+*/
+
+body {
+    background-color:brown;
+}
+
+h1, p {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.titulo_pagina {
+    font-size: 72px;
+}
+
+.subtitulo {
+    font-size: 36px;
+}
